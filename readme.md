@@ -70,3 +70,6 @@ This project aims to develop an API for an online bookstore using FastAPI, SQLAl
 - Thorough testing to ensure reliability and functionality.
 - Code uploaded to a repository (e.g., GitHub) for version control and collaboration.
 
+# WorkFlow 
+- create virtual environment`python -m venv venv`
+- activate virtual environment `.\venv\Scripts\activate`

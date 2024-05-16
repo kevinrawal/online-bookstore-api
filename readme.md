@@ -73,3 +73,6 @@ This project aims to develop an API for an online bookstore using FastAPI, SQLAl
 # WorkFlow 
 - create virtual environment`python -m venv venv`
 - activate virtual environment `.\venv\Scripts\activate`
+- add dependecy (if you install some new) `pip freeze > requirements.txt`
+- install dependencies `pip install -r requirements.txt`
+- run server `python main.py`
